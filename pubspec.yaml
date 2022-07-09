@@ -1,0 +1,62 @@
+name: beiu_project
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  d_chart: ^0.0.4
+  http: ^0.13.4
+  flutter_local_notifications: ^9.6.1
+  firebase_messaging: ^11.4.2
+  page_transition: ^2.0.5
+  date_time_picker: ^2.1.0
+  expandable_widgets: ^1.0.3+1
+  iconsax: ^0.0.8
+  animated_text_kit: ^4.2.1
+  flutter_rating_bar: ^4.0.1
+  top_snackbar_flutter: ^1.1.1
+  device_info_plus: ^4.0.0
+  google_fonts: ^3.0.1
+  firebase_core: ^1.14.0
+  firebase_auth: ^3.3.12
+  cloud_firestore: ^3.1.11
+  flutter_circular_text: ^0.3.1
+  provider: ^6.0.2
+  cool_alert: ^1.1.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.1
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - bec1.png
+    - bec2.png
+    - bec3.png
+    - copac.png
+    - copac_misca2.gif
+    - pagina1.png
+    - pagina2.png
+    - pagina3.png
+
+
+  fonts:
+    - family: Aller
+      fonts:
+        - asset: fonts/AllerDisplay.ttf
+          weight: 900

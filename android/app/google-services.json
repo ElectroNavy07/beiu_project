@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075847418609",
+    "project_id": "beiu-project-16c5e",
+    "storage_bucket": "beiu-project-16c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075847418609:android:c93f331d2932c001f0cf50",
+        "android_client_info": {
+          "package_name": "arhirefilip.com.beiu_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075847418609-g3imo8hr50dasqd01d9unsjvcj5dfu7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfz_xNMtx0nzJnkV4q710c-4xEwl0PBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075847418609-g3imo8hr50dasqd01d9unsjvcj5dfu7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075847418609-ujdp3poi1t44t87ir8md1ntire0rehcv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "arhirefilip.com.beiuProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
